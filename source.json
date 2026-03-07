@@ -1,13 +1,13 @@
 {
     "name":"Hellcat-M18",
     "id":"com.hellcat-m18.vpm",
-    "url":"https://hellcat-M18.github.io/vpm-repos/index.json",
+    "url":"https://hellcat-m18.github.io/vpm-repos/index.json",
     "author":{
         "name":"Hellcat-M18",
-        "url":"https://github.com/hellcat-M18"
+        "url":"https://github.com/hellcat-m18"
     },
     "infoLink":{
-        "url":"https://github.com/hellcat-M18/vpm-repos",
+        "url":"https://github.com/hellcat-m18/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
