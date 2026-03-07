@@ -1,9 +1,9 @@
 {
-    "name":"Hellcat-M18",
+    "name":"hellcat-M18",
     "id":"com.hellcat-m18.vpm",
     "url":"https://hellcat-m18.github.io/vpm-repos/index.json",
     "author":{
-        "name":"Hellcat-M18",
+        "name":"hellcat-M18",
         "url":"https://github.com/hellcat-m18"
     },
     "infoLink":{
@@ -12,7 +12,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "Hellcat_M18/LACE"
+        "hellcat_M18/LACE"
     ],
     "packages":[]
 }
