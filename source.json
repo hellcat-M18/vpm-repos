@@ -12,7 +12,8 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "hellcat-M18/LACE"
+        "hellcat-M18/LACE",
+        "hellcat-M18/LazyTex"
     ],
     "packages":[]
 }
